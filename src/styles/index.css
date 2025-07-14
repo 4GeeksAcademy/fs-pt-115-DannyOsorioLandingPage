@@ -13,3 +13,9 @@
 body{
     width: 1366px;
 }
+
+img{
+    object-fit:contain
+    width: 100px;
+    height: 400px;
+}
