@@ -40,7 +40,7 @@ const Home = () => {
 					img="https://static.wikia.nocookie.net/onepiece/images/4/4c/Cartel_de_recompensa_de_Gol_D._Roger.png/revision/latest?cb=20210208204702&path-prefix=es"
 				/>
 			</div>
-			<Footer />
+			<Footer/>
 
 		</div>
 
